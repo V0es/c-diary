@@ -1,5 +1,0 @@
-﻿  n2.cpp
-C:\Users\markk\source\repos\StudyC\SimpleC\n2.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\markk\source\repos\StudyC\SimpleC\n2.cpp(35,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\markk\source\repos\StudyC\SimpleC\n2.cpp(120,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  SimpleC.vcxproj -> C:\Users\markk\source\repos\StudyC\x64\Debug\SimpleC.exe
